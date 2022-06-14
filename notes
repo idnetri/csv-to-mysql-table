@@ -1,0 +1,8 @@
+Validations
+1. if there is null header column in the middle, it can not be processed because it will cause error,
+if null header column in the last column it is safe.
+
+
+Sample csv file
+https://www.stats.govt.nz/large-datasets/csv-files-for-download/
+
